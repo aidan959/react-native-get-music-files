@@ -48,7 +48,7 @@
   "name": "react-native-get-music-files",
   "peerDependencies": {
     "react-native": "0.62.2",
-    "react-native-windows": "0.62.2-rc.1"
+    "react-native-windows": "0.62-stable"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
